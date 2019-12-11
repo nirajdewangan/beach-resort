@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Beach resort Website
+          12 Dec 2019 started
         </p>
         
       </header>
