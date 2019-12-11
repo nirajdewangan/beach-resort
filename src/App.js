@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Beach resort Website
+          Beach resort Website<br>
+          testing CICD pipeline
+          </br>
           12 Dec 2019 started
         </p>
         
