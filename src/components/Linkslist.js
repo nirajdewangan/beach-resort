@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Linkslist = [
   {id:1, pathname : "Home" , path : "/"},
