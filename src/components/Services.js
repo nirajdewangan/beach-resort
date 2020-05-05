@@ -31,7 +31,7 @@ class Services extends Component {
     return (
       <>
         <section className="services">
-          <Title title="service" />
+          <Title title="services" />
           <div className="services-center">
             {this.state.services.map((service, index) => {
               return (
